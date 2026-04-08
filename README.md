@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👩‍💻 Olá, me chamo Pamella e sou &nbsp;`Desenvolvedora Full Stack`
 
-<!--
-**Pamella96/Pamella96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente transformando ideias brutas em MVPs e tentando não quebrar o ciclo de vida da aplicação. Gosto de código limpo, arquitetura sólida e de  entender como as coisas realmente funcionam por baixo da abstração.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Linguagens e ferramentas
+
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%23025E8C.svg?style=for-the-badge&logo=database&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Power BI](https://img.shields.io/badge/power%20bi-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![MariaDB](https://img.shields.io/badge/mariadb-%23003545.svg?style=for-the-badge&logo=mariadb&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![DBeaver](https://img.shields.io/badge/dbeaver-%23372923.svg?style=for-the-badge&logo=dbeaver&logoColor=white)
+![Scratch](https://img.shields.io/badge/scratch-%234D97FF.svg?style=for-the-badge&logo=scratch&logoColor=white)
+
+#
+
+---
+
+### 📊 Estatísticas do GitHub
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pamella96&show_icons=true&theme=radical&hide_border=true)](https://github.com/Pamella96)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pamella96&layout=compact&theme=radical&hide_border=true)](https://github.com/Pamella96)
+
+---
+
+### ⚡ Além do Código
+
+Quando não estou no terminal ou no Figma, provavelmente estou:
+
+- 🎬 Destrinchando a fotografia de algum filme da **Nouvelle Vague** ou do David Lynch
+- 📚 Imersa em algum clássico — atualmente: *A Montanha Mágica*, de Thomas Mann
+- 🏋️‍♀️ Na academia, focada em **hipertrofia** (constância acima de tudo)
+- 🏖 Aproveitando o mar no **Posto 5**, Rio de Janeiro
+
+---
+
+### 📫 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pamella-japson-815b62229)
