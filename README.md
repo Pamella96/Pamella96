@@ -36,8 +36,8 @@ Atualmente transformando ideias brutas em MVPs e tentando não quebrar o ciclo d
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pamella96&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pamella96&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" alt="Top Langs" height="200" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pamella96&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats" height="200" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pamella96&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" alt="Top Langs" height="200" />
 </p>
 
 <br clear="left" />
