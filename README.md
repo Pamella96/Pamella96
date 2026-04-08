@@ -1,4 +1,4 @@
-# 👩‍💻 Olá, me chamo Pamella e sou &nbsp;`Desenvolvedora Full Stack`
+# 👩‍💻 Pamella&nbsp;`Desenvolvedora Full Stack`
 
 Atualmente transformando ideias brutas em MVPs e tentando não quebrar o ciclo de vida da aplicação. Gosto de código limpo, arquitetura sólida e de entender como as coisas realmente funcionam por baixo da abstração.
 
@@ -59,5 +59,6 @@ Quando não estou no terminal, provavelmente estou:
 ### 📫 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pamella-japson-815b62229)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitamiina_d)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pamella96)
 [![CV](https://img.shields.io/badge/CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Pamella96/Pamella96/raw/main/assets/Pamella%20CV.pdf)
