@@ -29,12 +29,7 @@ Atualmente transformando ideias brutas em MVPs e tentando não quebrar o ciclo d
 ![DBeaver](https://img.shields.io/badge/dbeaver-%23372923.svg?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![Scratch](https://img.shields.io/badge/scratch-%234D97FF.svg?style=for-the-badge&logo=scratch&logoColor=white)
 
-#
-
 ---
-
-### 📊 Estatísticas do GitHub
-
 ### 📊 Estatísticas do GitHub
 
 <table align="center">
