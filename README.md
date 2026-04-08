@@ -1,6 +1,6 @@
 # 👩‍💻 Olá, me chamo Pamella e sou &nbsp;`Desenvolvedora Full Stack`
 
-Atualmente transformando ideias brutas em MVPs e tentando não quebrar o ciclo de vida da aplicação. Gosto de código limpo, arquitetura sólida e de  entender como as coisas realmente funcionam por baixo da abstração.
+Atualmente transformando ideias brutas em MVPs e tentando não quebrar o ciclo de vida da aplicação. Gosto de código limpo, arquitetura sólida e de entender como as coisas realmente funcionam por baixo da abstração.
 
 ---
 
@@ -18,14 +18,13 @@ Atualmente transformando ideias brutas em MVPs e tentando não quebrar o ciclo d
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/mariadb-%23003545.svg?style=for-the-badge&logo=mariadb&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Power BI](https://img.shields.io/badge/power%20bi-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![MariaDB](https://img.shields.io/badge/mariadb-%23003545.svg?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/dbeaver-%23372923.svg?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![Scratch](https://img.shields.io/badge/scratch-%234D97FF.svg?style=for-the-badge&logo=scratch&logoColor=white)
@@ -36,9 +35,23 @@ Atualmente transformando ideias brutas em MVPs e tentando não quebrar o ciclo d
 
 ### 📊 Estatísticas do GitHub
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pamella96&show_icons=true&theme=radical&hide_border=true)](https://github.com/Pamella96)
+<p>
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=Pamella96&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+  />
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pamella96&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+  />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pamella96&layout=compact&theme=radical&hide_border=true)](https://github.com/Pamella96)
+<br clear="left" />
 
 ---
 
@@ -46,13 +59,15 @@ Atualmente transformando ideias brutas em MVPs e tentando não quebrar o ciclo d
 
 Quando não estou no terminal, provavelmente estou:
 
-- 🎬 Frames & Grãos: Analisando a luz natural de Godard ou a composição de Tarkovsky.
-- 📚 Páginas: Atravessando os ensaios e a urgência de James Baldwin.
-- 🏋️‍♀️ Em movimento: aspirante a Fisiculturista, Compilando massa muscular.
-- 🏖 Aproveitando o mar 
+- 🎬 **Frames & Grãos:** Analisando a luz natural de Godard ou a composição de Tarkovsky.
+- 📚 **Páginas:** Atravessando os ensaios e a urgência de James Baldwin.
+- 🏋️‍♀️ **Em movimento:** Aspirante a fisiculturista, compilando massa muscular.
+- 🏖 Aproveitando o mar.
 
 ---
 
 ### 📫 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pamella-japson-815b62229)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pamella96)
