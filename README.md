@@ -35,12 +35,18 @@ Atualmente transformando ideias brutas em MVPs e tentando não quebrar o ciclo d
 
 ### 📊 Estatísticas do GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pamella96&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats" height="200" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pamella96&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" alt="Top Langs" height="200" />
-</p>
+### 📊 Estatísticas do GitHub
 
-<br clear="left" />
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pamella96&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" height="175" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pamella96&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" height="175" />
+    </td>
+  </tr>
+</table>
 
 ---
 
