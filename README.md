@@ -44,12 +44,12 @@ Atualmente transformando ideias brutas em MVPs e tentando não quebrar o ciclo d
 
 ### ⚡ Além do Código
 
-Quando não estou no terminal ou no Figma, provavelmente estou:
+Quando não estou no terminal, provavelmente estou:
 
-- 🎬 Destrinchando a fotografia de algum filme da **Nouvelle Vague** ou do David Lynch
-- 📚 Imersa em algum clássico — atualmente: *A Montanha Mágica*, de Thomas Mann
-- 🏋️‍♀️ Na academia, focada em **hipertrofia** (constância acima de tudo)
-- 🏖 Aproveitando o mar no **Posto 5**, Rio de Janeiro
+- 🎬 Frames & Grãos: Analisando a luz natural de Godard ou a composição de Tarkovsky.
+- 📚 Páginas: Atravessando os ensaios e a urgência de James Baldwin.
+- 🏋️‍♀️ Em movimento: aspirante a Fisiculturista, Compilando massa muscular.
+- 🏖 Aproveitando o mar 
 
 ---
 
